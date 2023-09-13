@@ -1,0 +1,6 @@
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.Form1.resources
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.vbproj.GenerateResource.cache
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.AssemblyInfoInputs.cache
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.AssemblyInfo.vb
+C:\Users\YYKJOM\source\repos\homework1_1\homework1_1\obj\Debug\net6.0-windows\homework1_1.vbproj.CoreCompileInputs.cache
